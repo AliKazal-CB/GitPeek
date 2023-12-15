@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitPeek</string>
+    <string name="title_activity_main">Take Home</string>
+
+    <string name="text_input_card_hint">Enter a github user id</string>
+    <string name="text_input_card_button">Search</string>
+</resources>
